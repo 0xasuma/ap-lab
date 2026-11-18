@@ -1,0 +1,18 @@
+{
+  "subject": "acct:labactor@0xasuma.github.io",
+  "aliases": [
+    "https://0xasuma.github.io/ap-lab/actor.json"
+  ],
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://0xasuma.github.io/ap-lab/actor.json"
+    },
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://0xasuma.github.io/ap-lab/"
+    }
+  ]
+}
